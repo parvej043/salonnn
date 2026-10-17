@@ -1,4 +1,4 @@
-/* =====================================================
+/* /* =====================================================
    THE INVITE UNISEX SALON
    PREMIUM CUSTOM STYLESHEET
 ===================================================== */
@@ -55,7 +55,7 @@ body.no-scroll {
     overflow: hidden;
 }
 
-
+/* 
 a {
     text-decoration: none;
     color: inherit;
@@ -101,14 +101,14 @@ button {
 
     margin-bottom: 25px;
 
-}
+} */
 
 
 /* =========================
    PRELOADER
 ========================= */
 
-.preloader {
+/* .preloader {
 
     position: fixed;
 
@@ -184,14 +184,14 @@ button {
 
     margin-top: 15px;
 
-}
+} */
 
 
 /* =========================
    HEADER
 ========================= */
 
-.header {
+/* .header {
 
     position: fixed;
 
@@ -361,7 +361,7 @@ button {
 
     margin: 7px auto;
 
-}
+} */
 
 
 /* MOBILE MENU */
@@ -392,7 +392,7 @@ button {
 }
 
 
-.hero-image {
+/* .hero-image {
 
     position: absolute;
 
@@ -624,7 +624,7 @@ button {
 
     bottom: 30px;
 
-    display: flex;
+    display: flex; */
 
     gap: 60px;
 
@@ -2780,4 +2780,4 @@ footer {
 
     }
 
-}
+} */
